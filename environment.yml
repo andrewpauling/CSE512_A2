@@ -1,8 +1,8 @@
 name: a2env
 channels:
-	- conda-forge
+  - conda-forge
 dependencies:
-	- numpy
-	- matplotlib
-	- pandas
-	- altair
+  - numpy
+  - matplotlib
+  - pandas
+  - altair
